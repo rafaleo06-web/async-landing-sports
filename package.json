@@ -1,0 +1,23 @@
+{
+  "name": "async-landing-sports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaleo06-web/async-landing-sports.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaleo06-web/async-landing-sports/issues"
+  },
+  "homepage": "https://github.com/rafaleo06-web/async-landing-sports#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
